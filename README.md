@@ -45,7 +45,7 @@ You'll work with just these areas:
 ## Instructions
 
 Follow the
-[step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
+[step-by-step workflow guide](https://nwmgraspr.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 to complete:
 
 1. Phase 1. **Start & Run**
