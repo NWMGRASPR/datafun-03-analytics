@@ -1,4 +1,10 @@
-####
+"""custom_one.main.py - This is the script for this custom_one project.
+Author: Ralph Massaquoi
+2026-05
+
+This simple project contains an excel table with 10 cities alone with their populations.
+ChatGBT helped with this project. These cities are the most populated cities in the United States.
+"""
 import pandas as pd
 
 # Data for 10 cities
